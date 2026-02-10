@@ -19,5 +19,4 @@ I’m a developer who enjoys bridging the gap between high-performance logic and
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[mmmmyvn]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[mmmmyvn]&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=[mmmmyvn]&show_icons=true&theme=radical)

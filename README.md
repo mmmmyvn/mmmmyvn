@@ -14,7 +14,7 @@ I’m a developer who enjoys bridging the gap between high-performance logic and
 ### 🚀 What I'm Up To
 - 🔭 **Working on:** Mobile App for LettuVault
 - 🌱 **Learning:** Qt (kinda hard for me ngl)
-- 💬 **Ask me about:** Why I -love- hate pointers in C++
+- 💬 **Ask me about:** Why I ~~love~~ **hate** pointers in C++
 
 ---
 
